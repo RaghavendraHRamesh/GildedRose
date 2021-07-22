@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRoseTest\\GildedRoseTest.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRoseTest\\GildedRoseTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRoseTest\\GildedRoseTest.csproj",
+        "projectName": "GildedRoseTest",
+        "projectPath": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRoseTest\\GildedRoseTest.csproj",
+        "packagesPath": "C:\\Users\\Raghavendra.h.r\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRoseTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raghavendra.h.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Raghavendra.h.r\\source\\repos\\SUBSYSTEM\\Tools\\PDSListDBGenerator\\SyncSharedLibraryNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\GildedRose.csproj": {
+                "projectPath": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\GildedRose.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\GildedRose.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\GildedRose.csproj",
+        "projectName": "GildedRose",
+        "projectPath": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\GildedRose.csproj",
+        "packagesPath": "C:\\Users\\Raghavendra.h.r\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\TDD\\WorkShop\\tddWorkshop\\05-GildedRose\\csharp-dotnetcore\\GildedRose\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raghavendra.h.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Raghavendra.h.r\\source\\repos\\SUBSYSTEM\\Tools\\PDSListDBGenerator\\SyncSharedLibraryNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
